@@ -37,7 +37,7 @@ con lo que en este sistema se decide establecer como entidades a **Jugador** y *
 Estas entidades además tienen una relación de **1:n**, pues pueden haber muchos jugadores pertenecientes
 a un equipo y un jugador solo pertenece a un equipo.
 
---
+___
 
 #### *Clases y sus relaciones*  
 Las clases del sistema se componen de las clases entidad, **Jugador** y **Equipo**, de control,
