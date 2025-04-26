@@ -25,8 +25,8 @@ Los actores que interactuan en el sistema serían el **Administrador** y el **Us
 
 #### *¿Cuáles son las acciones que cada actor puede realizar?*  
   
-**Administrador**: Registrar equipos y añadir jugadores.  
-**Usuario**: Consultar jugadores y equipos.  
+▪️**Administrador**: Registrar equipos y añadir jugadores.  
+▪️**Usuario**: Consultar jugadores y equipos.  
 
 #### *¿Cómo se relacionan entre sí las entidades del sistema?*  
   
