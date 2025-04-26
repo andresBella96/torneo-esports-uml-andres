@@ -7,7 +7,8 @@ GitHub: andresBella98
 ## 📚 Descripción del Proyecto
 Este proyecto implementa un sistema de gestión de torneos de eSports
 utilizando UML para el modelado y Java para la implementación.  
-Link del repo: https://github.com/andresBella96/torneo-esports-uml-andres.git
+  
+🔗*Link del repo:* https://github.com/andresBella96/torneo-esports-uml-andres.git
 
 ## 🧩 Diagramas UML
 
