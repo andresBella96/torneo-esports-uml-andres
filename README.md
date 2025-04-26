@@ -34,7 +34,7 @@ Los actores que interactuan en el sistema serían el **Administrador** y el **Us
 Como entidades definimos aquellas entes que son únicas y se definen a partir de atributos, 
 con lo que en este sistema se decide establecer como entidades a **Jugador** y **Equipo**.  
   
-Estas entidades además tienen una relación de 1:n, pues pueden haber muchos jugadores pertenecientes
+Estas entidades además tienen una relación de **1:n**, pues pueden haber muchos jugadores pertenecientes
 a un equipo y un jugador solo pertenece a un equipo.
 
 ## 🏁 Conclusiones
