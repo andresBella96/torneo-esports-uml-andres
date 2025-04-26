@@ -18,7 +18,8 @@ utilizando UML para el modelado y Java para la implementación.
 ![Diagrama de clases](diagrams/clases.png)
 
 ## 📝 Justificación del diseño
-Primero, se van a responder a las preguntas planteadas en el pdf de la actividad.  
+Primero, se van a responder a las preguntas planteadas en el pdf de la actividad. Después, se ampliará la justificación con 
+conceptos importantes respecto al diseño UML.  
 
 #### *¿Quiénes son los actores que interactúan con el sistema?*  
   
@@ -36,8 +37,6 @@ con lo que en este sistema se decide establecer como entidades a **Jugador** y *
   
 Estas entidades además tienen una relación de **1:n**, pues pueden haber muchos jugadores pertenecientes
 a un equipo y un jugador solo pertenece a un equipo.
-
-_________________________________________________________________________________________________________
 
 #### *Clases y sus relaciones*  
 Las clases del sistema se componen de las clases entidad, **Jugador** y **Equipo**, de control,
