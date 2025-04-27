@@ -18,9 +18,15 @@ utilizando **UML** para el modelado y **Java** para la implementación.
 ### Diagrama de Casos de Uso  
   
 ![Diagrama de casos de uso](diagrams/casos-uso.png)
+
 ### Diagrama de Clases  
   
 ![Diagrama de clases](diagrams/clases.png)
+<picture>
+  <source srcset="diagrams/clases-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="diagrams/clases-light.png" media="(prefers-color-scheme: light)">
+  <img src="diagrams/clases.png" alt="Diagrama de clases">
+</picture>
 
 ## 🗄️ Estructura del Proyecto  
 
