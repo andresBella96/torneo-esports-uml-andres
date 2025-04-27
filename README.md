@@ -92,9 +92,9 @@ De acuerdo al modelo **MVC**, aunque utilizado de forma muy simplificada simplif
 - `VistaPrincipal`: actúa como **Vista**.
 - `Main`: ejecuta el proyecto. 
   
-La relaciones entre ellas son claras, pues hay asociaciones entre `Jugador` y `Equipo`, puesto que Jugador contiene en sus atributos a 'Equipo' y entre estas clases entidad y el `GestorTorneos`. Esto último, se debe al hecho de utilizar listas de `Jugador` y `Equipo` en `GestorTorneos` como medida para poder realizar pruebas del sistema sin tener que conectarse a ninguna base de datos o archivo/s.  
+La relaciones entre ellas son claras, pues hay asociaciones entre `Jugador` y `Equipo`, puesto que Jugador contiene en sus atributos a `Equipo` y entre estas clases de tipo entidad y el `GestorTorneos`, pues `GestorTorneos` utiliza listas de `Jugador` y `Equipo` como medida para poder realizar pruebas del sistema sin tener que conectarse a ninguna base de datos o archivo/s.  
   
-Por otro lado, existe una dependencia entre las clases `GestorTorneos` y `VistaPrincipal`, pues la vista necesita instanciar un objeto de tipo `GestorTorneos` para usar sus métodos y lo mismo ocurre entre la clase `Main` y `VistaPrincipal`.
+Por otro lado, existe una dependencia entre las clases `GestorTorneos` y `VistaPrincipal`, pues la vista necesita instanciar un objeto de tipo `GestorTorneos` para usar sus métodos, y lo mismo ocurre entre la clase `Main` y `VistaPrincipal`.
 
 ## 🏁 Conclusiones
 En este proyecto, se ha podido profundizar en modelado **UML** que, aunque ha sido de forma muy reducida y superficial en ciertos aspectos, ha permitido la compresión de algunos factores clave en el diseño de aplicaciones.  
