@@ -102,7 +102,7 @@ En este proyecto, se ha podido profundizar en modelado **UML** que, aunque ha si
   
 ✔️ Por un lado, se ha visto uno de los patrones de arquitectura de software más utilizados en el desarrollo de aplicaciones.  
   
-✔️ También, debido a la realización de la memoria en un *README.md*, se ha podido practicar la maquetación y diseño en lenguaje markdown.  
+✔️ También, debido a la realización de la memoria en un *README.md*, se ha podido practicar la maquetación y diseño en lenguaje markdown. Por ejemplo, aunque esto es html, se han incluído los diagramas como imágenes adaptativas al tema del navegador/github. 
   
 ✔️ Aunque solo la estructura está creada, no sería complicado implementar este proyecto en java con un pequeño menu en consola para hacer las primeras pruebas con **JUnit**.  
   
