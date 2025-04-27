@@ -17,6 +17,20 @@ utilizando UML para el modelado y Java para la implementación.
 ### Diagrama de Clases
 ![Diagrama de clases](diagrams/clases.png)
 
+## Estructura del Proyecto  
+
+torneo-esports-uml/ ├── src/
+│ ├── es/empresa/torneo/
+│ │ ├── modelo/
+│ │ ├── control/
+│ │ ├── vista/
+│ │ ├── Main.java
+├── diagrams/
+│ ├── casos-uso.png
+│ ├── clases.png
+├── README.md
+├── .gitignore
+
 ## 📝 Justificación del diseño
 Primero, se van a responder a las preguntas planteadas en el pdf de la actividad. Después, se ampliará la justificación con 
 conceptos importantes respecto al diseño UML.  
