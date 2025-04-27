@@ -78,10 +78,9 @@ a un equipo y un jugador solo pertenece a un equipo.
 #### ▶️ *Casos de uso y arquitectura*
 Los caso de uso generales para el apartado requerido en esta actividad son: *Registrar equipo, Añadir jugadores a un equipo y Consultar lista de equipos y jugadores*.  
   
-Al registro se le ha añadido un nuevo caso de uso para la comprobación de la existencia de equipos ya registrados que se relaciona con el registro de jugadores y equipos con un <include>, pues
-ambos casos de uso incluyen esa comprobación.  
+Al registro de equipos y jugadores se le ha añadido un nuevo caso de uso para evitar el registro de equipos ya existentes y comprobar si exite un equipo antes de añadir un jugador. Este caso de uso se relaciona con el registro de jugadores y equipos con un `<include>`, pues ambos casos de uso necesitan esa comprobación.  
   
-También, se ha realizado un <extend> de la consulta de listas de equipos y jugadores para ofrecer la posibilidad de filtrar estas consultas por parte del usuario. 
+También, se ha realizado un `<extend>` de la consulta de listas de equipos y jugadores para ofrecer la posibilidad de filtrar estas consultas por parte del usuario. 
 
 #### ▶️ *Clases y sus relaciones*  
   
