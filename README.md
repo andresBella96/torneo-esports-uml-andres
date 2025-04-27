@@ -95,5 +95,7 @@ En este proyecto, se ha podido profundizar en modelado **UML** que, aunque ha si
   
 ✔️ También, debido a la realización de la memoria en un *README.md*, se ha podido practicar la maquetación y diseño en lenguaje markdown.  
   
+✔️ Aunque solo la estructura está creada, no sería complicado implementar este proyecto en java con un pequeño menu en consola para hacer las primeras pruebas con **JUnit**.  
+  
 ✔️ Y por último, pero no menos importante, nos ha forzado a pensar de forma holística, visualizando el desarrollo de software en su conjunto y no solo desde el punto de vista de la programación.
 
