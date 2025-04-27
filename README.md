@@ -16,12 +16,15 @@ utilizando **UML** para el modelado y **Java** para la implementación.
 ## 🧩 Diagramas UML
 
 ### Diagrama de Casos de Uso  
-  
-![Diagrama de casos de uso](diagrams/casos-uso.png)
+
+<picture>
+  <source srcset="diagrams/casos-uso-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="diagrams/casos-uso-light.png" media="(prefers-color-scheme: light)">
+  <img src="diagrams/casos-uso.png" alt="Diagrama de casos de uso">
+</picture>
 
 ### Diagrama de Clases  
   
-![Diagrama de clases](diagrams/clases.png)
 <picture>
   <source srcset="diagrams/clases-dark.png" media="(prefers-color-scheme: dark)">
   <source srcset="diagrams/clases-light.png" media="(prefers-color-scheme: light)">
